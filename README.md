@@ -27,7 +27,7 @@ This project analyzes nearly 10,000 retail transactions to identify the key driv
 - Order Trends
 - Regional Performance
 
-![Executive](screenshots/1executive-overview.png)
+![Executive](screenshots/1executive_overview.png)
 
 ---
 
@@ -38,7 +38,7 @@ This project analyzes nearly 10,000 retail transactions to identify the key driv
 - Profit by Sub-category
 - Sales vs Profit
 
-![Products](screenshots/2product-performance.png)
+![Products](screenshots/2product_performance.png)
 
 ---
 
@@ -48,7 +48,7 @@ This project analyzes nearly 10,000 retail transactions to identify the key driv
 - Customer Segmentation
 - Sales vs Profit
 
-![Customers](screenshots/3customer-insights.png)
+![Customers](screenshots/3customer_insights.png)
 
 ---
 
@@ -58,7 +58,7 @@ This project analyzes nearly 10,000 retail transactions to identify the key driv
 - Profit by State
 - Top Loss States
 
-![Region](screenshots/4regional-performance.png)
+![Region](screenshots/4regional_performance.png)
 
 ---
 
@@ -68,7 +68,7 @@ This project analyzes nearly 10,000 retail transactions to identify the key driv
 - Average Discount
 - Profit Trends
 
-![Discount](screenshots/5discount-analysis.png)
+![Discount](screenshots/5discount_analysis.png)
 
 ---
 
